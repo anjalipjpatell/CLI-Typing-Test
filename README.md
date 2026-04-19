@@ -1,3 +1,3 @@
-# Typing-Test-Python-
+# Typing-Test-Python
 
-Developed in and using Replit - db function currently not working as a result of dependencies on replit specific database system.
+A (very old) typing test game implementation run through and using pure CLI interaction. Many features are out of date and is not expected to run perfectly.
